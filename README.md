@@ -11,4 +11,6 @@ I’m Int4rstellar, a 15-year-old developer who likes building random stuff, tin
 * 💻 **Windows app development** from time-to-time
 * ⚡ **.NET performance and JIT/runtime experiments**
 
+---
+
 See you later!
